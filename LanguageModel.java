@@ -126,7 +126,5 @@ public class LanguageModel {
 		return str.toString();
 	}
 
-    public static void main(String[] args) {
-		// Your code goes here
-    }
+    
 }
